@@ -1,5 +1,0 @@
-{{visheshtiwari-27}}
-Name - Vishesh
-Skills - HTML, CSS3, Javascript, Angular, Git, Gituhub
-email - visheshtiwari732@gmail.com
-{{/user}}
